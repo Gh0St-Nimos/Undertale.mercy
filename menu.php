@@ -1,9 +1,9 @@
 <nav>
     <ul>
-        <li><a href="index.php">Home</a></li>
-        <li><a href="quemsomos.php">Quem Somos</a></li>
-        <li><a href="clientes.php">Clientes</a></li>
-        <li><a href="faleconosco.php">Fale Conosco</a></li>
+        <li><a href="?pg=principal">Home</a></li>
+        <li><a href="?pg=quemsomos">Quem Somos</a></li>
+        <li><a href="?pg=clientes">Clientes</a></li>
+        <li><a href="?pg=faleconosco">Fale Conosco</a></li>
     </ul>
 </nav>
 <style>
@@ -34,4 +34,5 @@ nav ul li a:hover {
     background-color: rgb(red, green, blue)
 }
 </style>
+
 
