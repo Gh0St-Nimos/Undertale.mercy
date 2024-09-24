@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MeuSite.com</title>
+    <title>Undertale</title>
     <img src="https://i.pinimg.com/originals/64/aa/dd/64aadd65eda4ba286bd9af1ac22114a7.gif" alt="Banner animado" style="width:100%; max-height: 200px; object-fit: cover;">
-
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Silkscreen&display=swap'>
     <style>
-        /* Estilos gerais */
-
 /* Estilos gerais */
 body {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Silkscreen', sans-serif; /* Aplicando a fonte que vc quer */
     margin: 0;
     padding: 0;
     background-color: #000000; /* Fundo preto */
@@ -55,8 +53,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #c7bcbc; /* Fundo cinza claro ao passar o mouse */
-    color: #ff0000; /* Texto vermelho */
+    background-color: black; /* Fundo cinza claro ao passar o mouse */
+    color: red; /* Texto vermelho */
 }
 /* Estilos para o rodapé */
 footer {
@@ -103,11 +101,12 @@ form input[type="submit"]:hover {
     color: #ff0000; /* Texto vermelho */
 }
 
-    </style>
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
-    
+</style>
 
 </head>
 <body>
-    
-
