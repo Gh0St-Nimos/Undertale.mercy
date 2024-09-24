@@ -31,6 +31,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #fbe00e;
+    background-color: rgb(red, green, blue)
 }
 </style>
+
