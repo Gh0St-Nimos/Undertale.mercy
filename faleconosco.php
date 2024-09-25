@@ -14,7 +14,8 @@
         <label for="mensagem">Mensagem:</label><br>
         <textarea id="mensagem" name="mensagem" required></textarea><br>
 
-        <button type="submit">Enviar</button>
+        
+        <input type="submit" value="Enviar" class="btn-enviar">
     </form>
 </section>
 

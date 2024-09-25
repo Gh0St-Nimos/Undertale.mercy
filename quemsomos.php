@@ -21,7 +21,7 @@
             border: 2px solid white; /* Borda branca */
             border-radius: 10px; /* Arredondamento dos cantos */
             padding: 20px; /* Padding interno */
-            width: 1000px; /* Largura do container */
+            width: 900px; /* Largura do container */
             margin: 0 auto; /* Centraliza o container */
         }
     </style>
@@ -29,9 +29,9 @@
 <body>
 
     <div class="container">
-    <p>Muito tempo atrás, duas raças dominavam a Terra: Humanos e Monstros. Um dia, a Guerra começou entre as duas raças. Após uma longa série de batalhas, os Humanos saíram vitoriosos. O maior de seus Magos prendeu os monstros no Subterrâneo, com uma Barreira mágica. Entretanto, essa barreira não era perfeita.Muitos anos após a guerra, em 201X, a Criança Humana escala a Montanha Ebott por um motivo desconhecido. Dizem que aqueles que sobem a montanha nunca retornam. Lá, a criança encontra um enorme buraco e nele cai enquanto tentava ver mais de perto.</p>
+    <p>Olá, minha criança. Eu sou Toriel, Guardiã das Ruínas. Fico muito feliz em te encontrar, embora lamente que tenha caído aqui. Não tenha medo, estarei ao seu lado para guiá-la pelos desafios do Subsolo. </p>
 
-<p>O Protagonista, que deve ser nomeado pelo jogador, começa sua aventura nas Ruínas. Rapidamente, encontra Flowey, a flor animada que tenta matar o protagonista por diversão. Também encontra Toriel, um monstro materno, que o salva e o ensina a resolver quebra-cabeças e conflitos no Subterrâneo. Após enfrentá-la, ela permite que a Criança saia das Ruínas.</p>
+<p>Este lugar pode ser perigoso, mas com cuidado e carinho, você conseguirá encontrar seu caminho. Sinta-se à vontade, estou aqui para ajudar em tudo o que precisar. Agora, vamos em frente, sim?"Ah, e claro, você deve estar faminta depois de tudo isso, não é? Preparei uma deliciosa torta de caramelo e canela para você. Nada como uma boa refeição para fazer você se sentir em casa.</p>
     </div>
 <?php
     include_once 'rodape.php';

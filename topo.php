@@ -19,7 +19,7 @@ body {
 
 /* Estilos para o topo */
 header {
-    background-color: #111111; /* Fundo escuro */
+    background-color: #000; /* Fundo escuro */
     color: #FFFFFF; /* Texto branco */
     padding: 20px 0;
     text-transform: uppercase; /* Letras maiúsculas */
@@ -62,7 +62,7 @@ footer {
     background-color: #000;
     color: white;
     text-align: center;
-    padding: 0.3spx 0;
+    padding-top: 20px
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -71,12 +71,12 @@ footer {
 
 /* Estilos para o formulário */
 form {
-    background-color: #222222;
+    background-color: #000;
     padding: 20px;
     margin: 20px auto;
     width: 50%;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    border: 2px solid white; /* Borda branca nos links */
 }
 
 form input, form textarea {
@@ -116,7 +116,7 @@ p {
             padding: 40px; /* Padding */
             color: white; /* Cor do texto */
             width: 300px; /* Largura do balão */
-            height: 140px; /* Altura do balão */
+            height: 190px; /* Altura do balão */
             font-family: 'Silkscreen', sans-serif; /* Fonte pixel */
             margin: 20px ; /* Margem automática para centralizar */
         }
@@ -133,9 +133,13 @@ p {
 }
 
 .destaque:hover {
-    color: blue; /* Cor ao passar o mouse */
+    color: yellow; /* Cor ao passar o mouse */
 }
 
+.btn-enviar:hover {
+    background-color: #FFFFFF; /* Fundo branco ao passar o mouse */
+    color: #000000; /* Texto preto ao passar o mouse */
+}
     </style>
 
 </head>

@@ -4,6 +4,7 @@
         <li><a href="?pg=quemsomos">Quem Somos</a></li>
         <li><a href="?pg=clientes">Clientes</a></li>
         <li><a href="?pg=faleconosco">Fale Conosco</a></li>
+        <li><a href="?pg=suporte">Suporte</a></li>
     </ul>
 </nav>
 

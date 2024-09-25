@@ -10,22 +10,30 @@
 <div class="images-container">
     <div class="container">
         <img src="https://i.pinimg.com/564x/05/4f/34/054f34765b246035828b21012439afdb.jpg" alt="Imagem 1">
-        <div class="texto">"Ei, foi mais legal do que um sonho de ketchup!"</div>
+        <div class="texto">"Ei, Tori, valeu. Eu sabia que podia contar com você, como sempre... heheh, você é incrível."</div>
     </div>
 
     <div class="container">
-        <img src="https://i.pinimg.com/564x/bd/8a/d4/bd8ad42d5851d149786205e259bf393c.jpg" alt="Imagem 2">
-        <div class="texto">"Querido, você fez um trabalho maravilhoso!"</div>
+        <img src="https://i.pinimg.com/564x/eb/74/3e/eb743eb4e00c3593fda16dbb156000f8.jpg" alt="Imagem 2">
+        <div class="texto">"Obrigada, Toriel. Você sempre foi tão gentil comigo... Eu realmente aprecio tudo o que você fez para me ajudar."</div>
     </div>
 
     <div class="container">
-        <img src="https://i.pinimg.com/564x/2e/13/5b/2e135b6c4773b5dbf2663041aaeda2da.jpg" alt="Imagem 3">
-        <div class="texto">"Ugh, você realmente se destacou, não é? Mas não fique muito feliz!"</div>
+        <img src="https://i.pinimg.com/564x/52/81/b1/5281b1c7bf8af32e0bff478e3aae8232.jpg" alt="Imagem 3">
+        <div class="texto">"Mãe, obrigado por sempre ser tão carinhosa. Eu nunca vou esquecer o quanto você faz por todos."</div>
     </div>
 
     <div class="container">
         <img src="https://i.pinimg.com/564x/66/db/f7/66dbf76944be89f6b2dd0f5bb63c7694.jpg" alt="Imagem 4">
-        <div class="texto">"Uuuh! Você foi incrível! Como um verdadeiro espaguete digno!"</div>
+        <div class="texto">"TORIEL! OBRIGADO, REALMENTE! VOCÊ É A DEFINIÇÃO DE GENTILEZA! TALVEZ UM DIA EU POSSA FAZER UMA SOPA TÃO BOA QUANTO A SUA!"</div>
+    </div>
+    <div class="container">
+        <img src="https://i.pinimg.com/564x/a6/98/49/a698494baa09ee97e7e2b4b2d4b997c7.jpg" alt="Imagem 4">
+        <div class="texto">"Toriel, você é a MELHOR! Sério, eu nunca conheci alguém tão legal assim. Obrigada por tudo!"</div>
+    </div>
+    <div class="container">
+        <img src="https://i.pinimg.com/564x/03/e1/9a/03e19a90f1393e72a6744c33cf98806a.jpg" alt="Imagem 4">
+        <div class="texto">"Oh... uh... obrigado, Toriel... Você é sempre tão gentil. Eu aprecio isso... muito."</div>
     </div>
 </div>
 
