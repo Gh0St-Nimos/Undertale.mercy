@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Undertale</title>
-    <img src="https://i.pinimg.com/originals/64/aa/dd/64aadd65eda4ba286bd9af1ac22114a7.gif" alt="Banner animado" style="width:100%; max-height: 200px; object-fit: cover;">
+    <img src="https://i.pinimg.com/564x/e5/24/f9/e524f9ea73984dc99c2bb38e2b307d22.jpg" alt="Banner animado" style="width:50%; max-height: 200px; object-fit: cover;">
     <link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Silkscreen&display=swap'>
     <style>
 /* Estilos gerais */
@@ -56,12 +56,13 @@ nav ul li a:hover {
     background-color: black; /* Fundo cinza claro ao passar o mouse */
     color: red; /* Texto vermelho */
 }
+
 /* Estilos para o rodapé */
 footer {
-    background-color: #111111;
+    background-color: #000;
     color: white;
     text-align: center;
-    padding: 10px 0;
+    padding: 0.3spx 0;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -88,6 +89,7 @@ form input, form textarea {
     color: white;
 }
 
+
 form input[type="submit"] {
     background-color: #FFFFFF;
     color: #000000;
@@ -97,7 +99,7 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background-color: #808080; /* Fundo cinza ao passar o mouse */
+    background-color: #808080; /* Fundo  ao passar o mouse */
     color: #ff0000; /* Texto vermelho */
 }
 
@@ -106,7 +108,35 @@ p {
     padding-right: 50px;
 }
 
-</style>
+.balao-fala {
+            position: relative;
+            background-color: black; /* Cor de fundo */
+            border: 2px solid white; /* Cor da borda */
+            border-radius: 10px; /* Arredondamento dos cantos */
+            padding: 40px; /* Padding */
+            color: white; /* Cor do texto */
+            width: 300px; /* Largura do balão */
+            height: 140px; /* Altura do balão */
+            font-family: 'Silkscreen', sans-serif; /* Fonte pixel */
+            margin: 20px ; /* Margem automática para centralizar */
+        }
+        .balao-fala::after {
+            content: '';
+            position: absolute;
+            bottom: 100px; /* Mova o balão para cima */
+            border-style: solid;
+            border-color: transparent transparent black transparent; /* Cor da ponta */
+        }
+        .destaque {
+    color: white; /* Cor inicial */
+    transition: color 0.3s; /* Transição suave */
+}
+
+.destaque:hover {
+    color: blue; /* Cor ao passar o mouse */
+}
+
+    </style>
 
 </head>
-<body>
+</body>

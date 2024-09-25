@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="icon" href="imagens/coracion.png" type="image/png">
+    <link rel="icon" href="imagens/coração.png" type="image/icon">
     <!-- js aqui -->
 </head>
 <?php
